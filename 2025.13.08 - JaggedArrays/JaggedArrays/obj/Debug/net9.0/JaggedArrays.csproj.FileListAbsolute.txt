@@ -1,0 +1,29 @@
+C:\Users\453332\Documents\Estrutura de Dados 25\Atividades\JaggedArrays\bin\Debug\net9.0\JaggedArrays.exe
+C:\Users\453332\Documents\Estrutura de Dados 25\Atividades\JaggedArrays\bin\Debug\net9.0\JaggedArrays.deps.json
+C:\Users\453332\Documents\Estrutura de Dados 25\Atividades\JaggedArrays\bin\Debug\net9.0\JaggedArrays.runtimeconfig.json
+C:\Users\453332\Documents\Estrutura de Dados 25\Atividades\JaggedArrays\bin\Debug\net9.0\JaggedArrays.dll
+C:\Users\453332\Documents\Estrutura de Dados 25\Atividades\JaggedArrays\bin\Debug\net9.0\JaggedArrays.pdb
+C:\Users\453332\Documents\Estrutura de Dados 25\Atividades\JaggedArrays\obj\Debug\net9.0\JaggedArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\453332\Documents\Estrutura de Dados 25\Atividades\JaggedArrays\obj\Debug\net9.0\JaggedArrays.AssemblyInfoInputs.cache
+C:\Users\453332\Documents\Estrutura de Dados 25\Atividades\JaggedArrays\obj\Debug\net9.0\JaggedArrays.AssemblyInfo.cs
+C:\Users\453332\Documents\Estrutura de Dados 25\Atividades\JaggedArrays\obj\Debug\net9.0\JaggedArrays.csproj.CoreCompileInputs.cache
+C:\Users\453332\Documents\Estrutura de Dados 25\Atividades\JaggedArrays\obj\Debug\net9.0\JaggedArrays.sourcelink.json
+C:\Users\453332\Documents\Estrutura de Dados 25\Atividades\JaggedArrays\obj\Debug\net9.0\JaggedArrays.dll
+C:\Users\453332\Documents\Estrutura de Dados 25\Atividades\JaggedArrays\obj\Debug\net9.0\refint\JaggedArrays.dll
+C:\Users\453332\Documents\Estrutura de Dados 25\Atividades\JaggedArrays\obj\Debug\net9.0\JaggedArrays.pdb
+C:\Users\453332\Documents\Estrutura de Dados 25\Atividades\JaggedArrays\obj\Debug\net9.0\JaggedArrays.genruntimeconfig.cache
+C:\Users\453332\Documents\Estrutura de Dados 25\Atividades\JaggedArrays\obj\Debug\net9.0\ref\JaggedArrays.dll
+C:\Users\vitin\Desktop\Atividades estrutura de dados\2025.13.08 - JaggedArrays\JaggedArrays\bin\Debug\net9.0\JaggedArrays.exe
+C:\Users\vitin\Desktop\Atividades estrutura de dados\2025.13.08 - JaggedArrays\JaggedArrays\bin\Debug\net9.0\JaggedArrays.deps.json
+C:\Users\vitin\Desktop\Atividades estrutura de dados\2025.13.08 - JaggedArrays\JaggedArrays\bin\Debug\net9.0\JaggedArrays.runtimeconfig.json
+C:\Users\vitin\Desktop\Atividades estrutura de dados\2025.13.08 - JaggedArrays\JaggedArrays\bin\Debug\net9.0\JaggedArrays.dll
+C:\Users\vitin\Desktop\Atividades estrutura de dados\2025.13.08 - JaggedArrays\JaggedArrays\bin\Debug\net9.0\JaggedArrays.pdb
+C:\Users\vitin\Desktop\Atividades estrutura de dados\2025.13.08 - JaggedArrays\JaggedArrays\obj\Debug\net9.0\JaggedArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitin\Desktop\Atividades estrutura de dados\2025.13.08 - JaggedArrays\JaggedArrays\obj\Debug\net9.0\JaggedArrays.AssemblyInfoInputs.cache
+C:\Users\vitin\Desktop\Atividades estrutura de dados\2025.13.08 - JaggedArrays\JaggedArrays\obj\Debug\net9.0\JaggedArrays.AssemblyInfo.cs
+C:\Users\vitin\Desktop\Atividades estrutura de dados\2025.13.08 - JaggedArrays\JaggedArrays\obj\Debug\net9.0\JaggedArrays.csproj.CoreCompileInputs.cache
+C:\Users\vitin\Desktop\Atividades estrutura de dados\2025.13.08 - JaggedArrays\JaggedArrays\obj\Debug\net9.0\JaggedArrays.dll
+C:\Users\vitin\Desktop\Atividades estrutura de dados\2025.13.08 - JaggedArrays\JaggedArrays\obj\Debug\net9.0\refint\JaggedArrays.dll
+C:\Users\vitin\Desktop\Atividades estrutura de dados\2025.13.08 - JaggedArrays\JaggedArrays\obj\Debug\net9.0\JaggedArrays.pdb
+C:\Users\vitin\Desktop\Atividades estrutura de dados\2025.13.08 - JaggedArrays\JaggedArrays\obj\Debug\net9.0\JaggedArrays.genruntimeconfig.cache
+C:\Users\vitin\Desktop\Atividades estrutura de dados\2025.13.08 - JaggedArrays\JaggedArrays\obj\Debug\net9.0\ref\JaggedArrays.dll
