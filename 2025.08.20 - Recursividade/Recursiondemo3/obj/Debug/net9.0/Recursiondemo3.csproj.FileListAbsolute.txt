@@ -1,0 +1,15 @@
+C:\Users\448993\Desktop\Atividades-estrutura-de-dados\2025.08.20 - Recursividade\Recursiondemo3\obj\Debug\net9.0\Recursiondemo3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\448993\Desktop\Atividades-estrutura-de-dados\2025.08.20 - Recursividade\Recursiondemo3\obj\Debug\net9.0\Recursiondemo3.AssemblyInfoInputs.cache
+C:\Users\448993\Desktop\Atividades-estrutura-de-dados\2025.08.20 - Recursividade\Recursiondemo3\obj\Debug\net9.0\Recursiondemo3.AssemblyInfo.cs
+C:\Users\448993\Desktop\Atividades-estrutura-de-dados\2025.08.20 - Recursividade\Recursiondemo3\obj\Debug\net9.0\Recursiondemo3.csproj.CoreCompileInputs.cache
+C:\Users\448993\Desktop\Atividades-estrutura-de-dados\2025.08.20 - Recursividade\Recursiondemo3\obj\Debug\net9.0\Recursiondemo3.sourcelink.json
+C:\Users\448993\Desktop\Atividades-estrutura-de-dados\2025.08.20 - Recursividade\Recursiondemo3\bin\Debug\net9.0\Recursiondemo3.exe
+C:\Users\448993\Desktop\Atividades-estrutura-de-dados\2025.08.20 - Recursividade\Recursiondemo3\bin\Debug\net9.0\Recursiondemo3.deps.json
+C:\Users\448993\Desktop\Atividades-estrutura-de-dados\2025.08.20 - Recursividade\Recursiondemo3\bin\Debug\net9.0\Recursiondemo3.runtimeconfig.json
+C:\Users\448993\Desktop\Atividades-estrutura-de-dados\2025.08.20 - Recursividade\Recursiondemo3\bin\Debug\net9.0\Recursiondemo3.dll
+C:\Users\448993\Desktop\Atividades-estrutura-de-dados\2025.08.20 - Recursividade\Recursiondemo3\bin\Debug\net9.0\Recursiondemo3.pdb
+C:\Users\448993\Desktop\Atividades-estrutura-de-dados\2025.08.20 - Recursividade\Recursiondemo3\obj\Debug\net9.0\Recursiondemo3.dll
+C:\Users\448993\Desktop\Atividades-estrutura-de-dados\2025.08.20 - Recursividade\Recursiondemo3\obj\Debug\net9.0\refint\Recursiondemo3.dll
+C:\Users\448993\Desktop\Atividades-estrutura-de-dados\2025.08.20 - Recursividade\Recursiondemo3\obj\Debug\net9.0\Recursiondemo3.pdb
+C:\Users\448993\Desktop\Atividades-estrutura-de-dados\2025.08.20 - Recursividade\Recursiondemo3\obj\Debug\net9.0\Recursiondemo3.genruntimeconfig.cache
+C:\Users\448993\Desktop\Atividades-estrutura-de-dados\2025.08.20 - Recursividade\Recursiondemo3\obj\Debug\net9.0\ref\Recursiondemo3.dll
